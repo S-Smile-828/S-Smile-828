@@ -41,25 +41,4 @@ I'm an AI Engineer and Full‑Stack Developer specializing in building scalable 
 - Project B - short description (link to repo)
 - Project C - short description (link to repo)
 
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmileSilver828&show_icons=true&count_private=true&theme=radical" alt="SmileSilver828's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileSilver828&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-## ✉️ Contact
-- GitHub: [SmileSilver828](https://github.com/SmileSilver828)
-- Email / LinkedIn / Website: (add here)
-
----
-
-<div align="center">
-  <p><b>Visitors</b></p>
-  <img src="https://profile-counter.glitch.me/SmileSilver828/count.svg" alt="visitor count" />
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer">

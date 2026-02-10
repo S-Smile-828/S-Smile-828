@@ -33,12 +33,4 @@ I'm an AI Engineer and Full‑Stack Developer specializing in building scalable 
 - Implemented CI/CD pipelines, infra as code, and containerized deployments.
 - Experience with data engineering for training pipelines and feature stores.
 
----
-
-## 📂 Featured / Pinned Projects
-(You can pin important repositories to your profile. Add links here for quick access.)
-- Project A - short description (link to repo)
-- Project B - short description (link to repo)
-- Project C - short description (link to repo)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer">

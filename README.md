@@ -1,36 +1,48 @@
-# Hi there, I'm SmileSilver828 👋
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=140&section=header">
+# Hi there👋, I'm SmileSilver828
+### AI Full Stack Developer
 
-### AI Engineer • Full‑Stack Developer - 7+ years building production systems
-I'm an AI Engineer and Full‑Stack Developer specializing in building scalable web applications, ML/AI systems, and end-to-end solutions. I focus on pragmatic engineering, clean architectures, and production readiness.
+I am an AI Full Stack Developer specializing in building intelligent, scalable, and production-ready applications.  
 
-- 🔭 I build scalable backends, data pipelines, and ML services
-- 🌱 I work with modern ML frameworks, inference systems, and cloud-native infra
-- ⚡ I enjoy solving problems across the stack - from model design to UX
-- 📫 Find me: https://github.com/SmileSilver828
+I work across the entire stack - from designing responsive frontends to architecting secure backend systems and deploying AI-powered solutions.k
 
----
+💡 My expertise includes: <br />
+&nbsp;&nbsp; ✔️ AI/ML model development & deployment <br />
+&nbsp;&nbsp; ✔️ LLM integrations & prompt engineering <br />
+&nbsp;&nbsp; ✔️ Backend development (Python, PHP, Node.js) <br />
+&nbsp;&nbsp; ✔️ Frontend development (Next.js, Angular, JavaScript) <br />
+&nbsp;&nbsp; ✔️ Mobile app development (React Native, Flutter) <br />
+&nbsp;&nbsp; ✔️ Cloud & serverless architecture (AWS Lambda) <br />
 
-## 🚀 What I do
-- AI / ML: model prototyping, training, deployment, inference optimization
-- Backend: API design, microservices, GraphQL/REST, async systems
-- Frontend: React, Next.js, responsive & accessible UI
-- Cloud & DevOps: Docker, Kubernetes, AWS / GCP, CI/CD
-- Blockchain: smart contracts & dApp integration (if relevant to projects)
+I enjoy turning complex problems into elegant, data-driven solutions and building products that merge automation, intelligence, and performance.
 
----
+Always building. Always learning. 🚀
 
-## 🛠️ Tech & Tools
+## Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tf,keras,sklearn,langchain,transformers,js,ts,react,nextjs,nodejs,express,fastapi,flask,postgres,mysql,mongodb,docker,kubernetes,aws,gcp,azure,git,github,vscode" />
+🔥 AI / ML
+
+🎨 Frontend 
+
+💻 Backend
+
+☁️ DevOps & Cloud Service
+
+🧰 Your GitHub Should Have These Repos
+
+
 </p>
 
----
+## GitHub Stats
 
-## 🔎 Selected Highlights
-- Designed and deployed ML inference services with autoscaling and monitoring.
-- Built full‑stack applications (React + fast backends) powering real‑time features.
-- Implemented CI/CD pipelines, infra as code, and containerized deployments.
-- Experience with data engineering for training pipelines and feature stores.
+<img src="https://github-readme-stats.vercel.app/api?username=SmileSilver828&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileSilver828&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SmileSilver828&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/SmileSilver828/count.svg?" alt="visitors count" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmileSilver828&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />

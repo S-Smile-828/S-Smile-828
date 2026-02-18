@@ -3,7 +3,7 @@
 
 I am an AI Full Stack Developer specializing in building intelligent, scalable, and production-ready applications.
 
-I work across the entire stack - from designing responsive frontends to architecting secure backend systems and deploying AI-powered solutions.k
+I work across the entire stack - from designing responsive frontends to architecting secure backend systems and deploying AI-powered solutions.
 
 💡 My expertise includes: <br />
 &nbsp;&nbsp; ✔️ AI/ML model development & deployment <br />
@@ -138,10 +138,6 @@ Always building. Always learning. 🚀
 <a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="40" /></a>
 
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SmileSilver828&theme=null" style="align: center"/>
 
 ## GitHub Activity Graph
 

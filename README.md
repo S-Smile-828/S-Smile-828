@@ -5,13 +5,16 @@ I am an AI Full Stack Developer specializing in building intelligent, scalable, 
 
 I work across the entire stack - from designing responsive frontends to architecting secure backend systems and deploying AI-powered solutions.
 
-💡 My expertise includes: <br />
-&nbsp;&nbsp; ✔️ AI/ML model development & deployment <br />
-&nbsp;&nbsp; ✔️ LLM integrations & prompt engineering <br />
-&nbsp;&nbsp; ✔️ Backend development (Python, PHP, Node.js) <br />
-&nbsp;&nbsp; ✔️ Frontend development (Next.js, Angular, JavaScript) <br />
-&nbsp;&nbsp; ✔️ Mobile app development (React Native, Flutter) <br />
-&nbsp;&nbsp; ✔️ Cloud & serverless architecture (AWS Lambda) <br />
+AI Expertise
+- Machine Learning: model development, training, deployment
+- Computer Vision: image/video processing, OCR, real-time pipelines
+- Generative AI: LLM apps, RAG systems, AI automation, assistants
+
+Full-Stack Engineering
+- Frontend: React, Next.js, Angular, TypeScript, Tailwind, React Native, Flutter, Swift
+- Backend: Node.js, Python (FastAPI/Django), Laravel, Java
+- Databases & Infra: PostgreSQL, MySQL, MongoDB, cloud & CI/CD
+
 
 I enjoy turning complex problems into elegant, data-driven solutions and building products that merge automation, intelligence, and performance.
 

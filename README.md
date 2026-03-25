@@ -1,5 +1,4 @@
-# Hi there👋, I'm SmileSilver828
-### AI Full Stack Developer
+# Hi there👋, I'm AI Engineer and Full Stack Developer.
 
 I am an AI Full Stack Developer specializing in building intelligent, scalable, and production-ready applications.
 
@@ -144,4 +143,4 @@ Always building. Always learning. 🚀
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmileSilver828&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tensai828&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
